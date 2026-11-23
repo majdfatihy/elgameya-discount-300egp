@@ -8,7 +8,7 @@
 - رابط التطبيق والإحالة: https://onelink.to/etm456
 - كود الدعوة: `ujrcxa`
 - رابط المستودع: https://github.com/majdfatihy/elgameya-discount-300egp
-- مسار الموقع المخطط: https://dev.majdfatihy.com/elgameya-discount-300egp/
+- رابط الموقع المنشور: https://dev.majdfatihy.com/elgameya-discount-300egp/
 - الموقع الرسمي للتطبيق: https://elgameya.net/en/index.html
 - قائمة شروحات القناة: https://www.youtube.com/playlist?list=PLl8-SweZguqqPJYXM78lV7CNq-noL8eYQ
 
@@ -17,7 +17,7 @@
 - `videos.json`: فهرس 22 فيديو موثق بعناوينها وتصنيفها وروابطها وصورها المصغرة.
 - `content/knowledge.md`: خلاصة المعلومات الرسمية والتفريغات المنسوبة لمصادرها.
 - `favicon.svg`: أيقونة تعريفية.
-- `sitemap.xml` و`robots.txt`: معلومات الفهرسة.
+- الفهرسة مركزية فقط عبر `https://dev.majdfatihy.com/sitemap.xml` و`https://dev.majdfatihy.com/robots.txt` في المستودع الرئيسي.
 
 ## الصور المصغرة
 تُعرض صور يوتيوب من رابطها الرسمي بأولوية `maxresdefault` ثم `sddefault` ثم `hqdefault` ثم `mqdefault`. للـShorts إطار عرض 9:16 في وسط البطاقة مع خلفية متدرجة/ضبابية، لتقليل الأشرطة السوداء الناتجة عن صور يوتيوب الرأسية داخل إطار أفقي.
